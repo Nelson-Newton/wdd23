@@ -1,0 +1,79 @@
+@media only screen and (min-width: 32.5em) {
+main {
+    border-radius: 10px;
+    margin: 0 auto;
+    display: grid;
+    padding: 30px;
+    grid-template-columns: 1fr;
+    box-sizing: content-box;
+
+
+    }
+
+h1{
+    color: blue;
+    font-size: 40px;
+    font-style: italic;
+}
+h2{
+    color: green;
+    font-size: 40px;
+    font-style: italic;
+}
+
+h4 {
+    font-size: 50px;
+    text-align: center;
+    color: green;
+    text-shadow: grey;
+    box-shadow: 0 0 40px #333;
+    font-style: italic;
+    padding: 30px;
+   
+}
+
+.medium_principle > div {
+    background-color: grey;
+    box-sizing: content-box;
+    text-align: center;
+    padding: 10px;
+
+}
+
+body{
+    background-color:slategrey;
+    display: grid;
+  align-items:;
+    border-radius: 10px;
+
+}
+
+.medium_principle{
+    display: flex;
+    padding: 10px;
+    border-radius: 10px;
+}
+.medium-repetition {
+    text-align: center;
+    margin-top: auto;
+}
+h5{
+    font-size: 30px;
+    color: red;
+}
+.hicks > img {
+    width: 50px;
+    margin-right: 3rem;
+    padding: 20px;
+}
+.medium-repetition > img {
+    text-align: center;
+}
+
+.large_principle{
+    display: flex;
+    padding: -50px;
+    border-radius: 50px;
+
+}
+}
