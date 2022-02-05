@@ -1,0 +1,43 @@
+
+
+.header img {
+    float: left;
+    width: auto;
+}
+
+.header h1 {
+    position: relative;
+    top: 100px;
+    left: 10px;
+   
+    
+}
+
+.navbar a.active {
+    background-color: #04aa6d;
+}
+
+#navbar > div {
+    display: flex;
+    font-size: 150%;
+    text-decoration: none;
+    padding: 50px;
+    width: 30px;
+    text-decoration: underline; 
+    position:static;
+    gap: 100px;
+    margin-top: 80px;
+    margin-left: 80px;
+ 
+}
+
+
+.logo{
+    border: 2px solid black;
+    box-shadow: red;
+}
+body {
+    background-color: green;
+}
+
+

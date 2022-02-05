@@ -43,7 +43,7 @@ h4 {
 body{
     background-color:slategrey;
     display: grid;
-  align-items:;
+  align-items:auto;
     border-radius: 10px;
 
 }
