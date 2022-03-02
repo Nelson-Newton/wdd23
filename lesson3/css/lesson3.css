@@ -34,7 +34,7 @@ h1{
 #chamber img {
     margin-bottom: 100px;
     width: 100%;
-    height: 400px;
+    height: 550px;
     border: 3px solid skyblue;
     box-shadow: 6px 5px 5px 6px red;
     border-radius: 50px 30px 50px 30px;
@@ -159,7 +159,7 @@ p ul{
 }
 
 .market img {
-    width: 100%;
+    width: 90%;
     border: 1px solid black;
     border-radius: 15px 13px 15px 13px;
     margin-right: 50px;
